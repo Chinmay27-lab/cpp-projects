@@ -32,7 +32,7 @@ int main()
 
 do{
         double a , b , result ;
-    cout << "\n\n===== WELCOME TO SMART CALCULATOR =====\n";
+    cout << "\n\n===== WELCOME TO SMART CALCULATOR =====\n\n";
         cout << "1. Add\n2. Subtract\n3. Multiply\n4. Divide\n";
         cout << "5. Remainder\n6. Power\n7. Square Root\n";
         cout << "8. Show History\n0. Exit\n";
